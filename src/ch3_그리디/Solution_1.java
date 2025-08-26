@@ -4,5 +4,6 @@ package ch3_그리디;
 public class Solution_1 {
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("hi");
     }
 }
